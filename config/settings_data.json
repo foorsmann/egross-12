@@ -335,7 +335,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".slide__block-title {color: #fff; -webkit-text-stroke: 3px black;}"
+      ".slide__block-title {color: #fff; -webkit-text-stroke: 2px black;}"
     ]
   }
 }
