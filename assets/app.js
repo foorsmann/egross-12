@@ -10255,3 +10255,20 @@ initTheme();
 }();
 /******/ })()
 ;
+document.addEventListener('DOMContentLoaded', function () {
+  document.querySelectorAll('.slide__block-title > span').forEach(function (el) {
+    // evita dublarea daca rulam de mai multe ori
+    if (!el.classList.contains('stroke-text')) {
+      // extrage textul vizibil; pastreaza liniile; sterge taguri
+      const html = el.innerHTML;
+      const text = html
+        .replace(/<br\s*\/?>/gi, '\n')   // <br> -> newline
+        .replace(/\s+\n/g, '\n')         // spatii inainte de \n
+        .replace(/\n\s+/g, '\n')         // spatii dupa \n
+        .replace(/<[^>]*>/g, '')         // orice alt tag, defensiv
+        .trim();
+      el.setAttribute('data-text', text);
+      el.classList.add('stroke-text');
+    }
+  });
+});
