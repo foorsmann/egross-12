@@ -10255,3 +10255,18 @@ initTheme();
 }();
 /******/ })()
 ;
+function applyHeroOutline(root = document) {
+  root.querySelectorAll('.slide__block-title > span').forEach((el) => {
+    if (!el.classList.contains('outline-dup')) {
+      const text = el.innerHTML
+        .replace(/<br\s*\/>?/gi, '\n')
+        .replace(/<[^>]*>/g, '')
+        .trim();
+      el.setAttribute('data-text', text);
+      el.classList.add('outline-dup');
+    }
+  });
+}
+
+document.addEventListener('DOMContentLoaded', () => applyHeroOutline());
+document.addEventListener('shopify:section:load', (e) => applyHeroOutline(e.target));
