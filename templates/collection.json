@@ -33,7 +33,7 @@
         "bg_color": "#ffffff",
         "enable_parallax": false,
         "upper_title": false,
-        "show_desc": false,
+        "show_desc": true,
         "collection_all_desc": ""
       }
     },
@@ -138,4 +138,3 @@
     "recent-viewed"
   ]
 }
-
