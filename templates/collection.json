@@ -14,9 +14,8 @@
       "blocks": {
         "0e2f4cdc-52ea-4a81-8981-2c1da0f34854": {
           "type": "banner",
-          "disabled": true,
           "settings": {
-            "collection": ""
+            "collection": "{{ collection }}"
           }
         }
       },
