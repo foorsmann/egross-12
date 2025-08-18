@@ -201,105 +201,120 @@
           "type": "collection_block",
           "settings": {
             "collection": "toate-produsele",
-            "title": "Toate Produsele"
+            "title": "Toate Produsele",
+            "item_image": "shopify://shop_images/egross-all-products.jpg"
           }
         },
         "collection_block_zFRt9t": {
           "type": "collection_block",
           "settings": {
             "collection": "articole-copii-si-jucarii",
-            "title": "Articole Copii Si Jucarii"
+            "title": "Articole Copii Si Jucarii",
+            "item_image": "shopify://shop_images/kids-toys.jpg"
           }
         },
         "collection_block_gcNk9G": {
           "type": "collection_block",
           "settings": {
             "collection": "decoratiuni-craciun-globuri-ghirlande-stickere",
-            "title": "Decoratiuni Craciun"
+            "title": "Decoratiuni Craciun",
+            "item_image": "shopify://shop_images/christmas-decorations.jpg"
           }
         },
         "16225316461d1cff80-2": {
           "type": "collection_block",
           "settings": {
             "collection": "articole-de-uz-casnic",
-            "title": "Articole De Uz Casnic"
+            "title": "Articole De Uz Casnic",
+            "item_image": "shopify://shop_images/household-cleaning-products.jpg"
           }
         },
         "collection_block_GWF7fi": {
           "type": "collection_block",
           "settings": {
             "collection": "articole-de-imbracaminte-si-accesorii",
-            "title": "Articole De Imbracaminte Si Accesorii"
+            "title": "Articole De Imbracaminte Si Accesorii",
+            "item_image": "shopify://shop_images/clothing-accessories.jpg"
           }
         },
         "7a571158-7686-4e66-a693-4716fc905604": {
           "type": "collection_block",
           "settings": {
             "collection": "lampi-solare-led-light",
-            "title": "Lampi Solare LED"
+            "title": "Lampi Solare LED",
+            "item_image": "shopify://shop_images/solar-led-lamps.jpg"
           }
         },
         "collection_block_jVLR7e": {
           "type": "collection_block",
           "settings": {
             "collection": "decoratiuni-si-ornamente",
-            "title": "Decoratiuni Si Ornamente"
+            "title": "Decoratiuni Si Ornamente",
+            "item_image": "shopify://shop_images/home-decor-ornaments.jpg"
           }
         },
         "12985deb-0775-45ce-80f6-6be7f3150a91": {
           "type": "collection_block",
           "settings": {
             "collection": "papetarie-si-rechizite-scolare",
-            "title": "Papetarie Si Rechizite"
+            "title": "Papetarie Si Rechizite",
+            "item_image": "shopify://shop_images/stationery-school-supplies.jpg"
           }
         },
         "243acd99-34d8-4b1d-9e4e-4539fefc6bf1": {
           "type": "collection_block",
           "settings": {
             "collection": "articole-sportive",
-            "title": "Articole Sportive"
+            "title": "Articole Sportive",
+            "item_image": "shopify://shop_images/sports-equipment.jpg"
           }
         },
         "collection_block_PcDkMP": {
           "type": "collection_block",
           "settings": {
             "collection": "incarcatoare-cabluri-android-iphone",
-            "title": "Incarcatoare Si Cabluri"
+            "title": "Incarcatoare Si Cabluri",
+            "item_image": "shopify://shop_images/chargers-cables.jpg"
           }
         },
         "collection_block_MdqbjA": {
           "type": "collection_block",
           "settings": {
             "collection": "electronice-electrice",
-            "title": "Electronice Si Electrice"
+            "title": "Electronice Si Electrice",
+            "item_image": "shopify://shop_images/electronics-accessories.jpg"
           }
         },
         "collection_block_HrrhPr": {
           "type": "collection_block",
           "settings": {
             "collection": "gradina-outdoor",
-            "title": "Gradina Si Outdoor"
+            "title": "Gradina Si Outdoor",
+            "item_image": "shopify://shop_images/garden-tools-outdoor.jpg"
           }
         },
         "collection_block_4VnCmg": {
           "type": "collection_block",
           "settings": {
             "collection": "auto-velo",
-            "title": "Auto Si Velo"
+            "title": "Auto Si Velo",
+            "item_image": "shopify://shop_images/car-bike-accessories.jpg"
           }
         },
         "collection_block_fHef7F": {
           "type": "collection_block",
           "settings": {
             "collection": "incaltaminte-sub-categorie-dedicata",
-            "title": "Incaltaminte"
+            "title": "Incaltaminte",
+            "item_image": "shopify://shop_images/footwear-shoes.jpg"
           }
         },
         "collection_block_nPLJrP": {
           "type": "collection_block",
           "settings": {
             "collection": "frumusete-ingrijire-personala",
-            "title": "Frumusete Si Ingrijire Personala"
+            "title": "Frumusete Si Ingrijire Personala",
+            "item_image": "shopify://shop_images/beauty-personal-care.jpg"
           }
         }
       },
