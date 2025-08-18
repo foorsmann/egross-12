@@ -52,10 +52,10 @@
         "0e2f4cdc-52ea-4a81-8981-2c1da0f34854"
       ],
       "settings": {
-        "container": "container-fluid",
+        "container": "container",
         "layout": "inside",
         "header_height": "small",
-        "text_alignment": "center",
+        "text_alignment": "left",
         "vertical_alignment": "center",
         "text_color": "dark",
         "bg_color": "#ffffff",
