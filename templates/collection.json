@@ -19,7 +19,7 @@
         "image": "{{ collection.metafields.custom.poza_colectie.value }}",
         "bg_position": "center",
         "image_link": "",
-        "parallax": false,
+        "parallax": true,
         "content_in_container": false,
         "content_position": "center middle",
         "text_alignment": "center",
