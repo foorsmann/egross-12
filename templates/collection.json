@@ -131,7 +131,6 @@
         "4903963a-90f0-4fe1-be23-ee4f8749e483",
         "00b3badd-1613-4230-85d8-f87f04306aaa"
       ],
-      "disabled": true,
       "settings": {
         "container": "container",
         "pagination_limit": 50,
