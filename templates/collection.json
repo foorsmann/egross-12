@@ -55,7 +55,7 @@
         "container": "container",
         "layout": "inside",
         "header_height": "small",
-        "text_alignment": "left",
+        "text_alignment": "center",
         "vertical_alignment": "center",
         "text_color": "dark",
         "bg_color": "#ffffff",
