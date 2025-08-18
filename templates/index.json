@@ -15,7 +15,7 @@
         "1621243260e1af0c20-0": {
           "type": "slider_item",
           "settings": {
-            "background": "shopify://shop_images/HERO_SECTION_F.jpg",
+            "background": "shopify://shop_images/hero-section-cover.jpg",
             "content_in_container": false,
             "content_position": "right top",
             "text_alignment": "right",
@@ -110,10 +110,10 @@
         "16225125199f82d8fe-0": {
           "type": "iconbox",
           "settings": {
-            "image": "shopify://shop_images/3.png",
+            "image": "shopify://shop_images/free-shipping-icon.png",
             "image_by_url": "",
             "title": "Livrare Gratuita",
-            "description": "<p>Comanda de +200 lei</p>",
+            "description": "<p>Comanda de +2000 lei</p>",
             "link": "",
             "button_label": "",
             "button_link": "",
@@ -124,7 +124,7 @@
         "16225125199f82d8fe-1": {
           "type": "iconbox",
           "settings": {
-            "image": "shopify://shop_images/2.png",
+            "image": "shopify://shop_images/easy-returns-icon.png",
             "image_by_url": "",
             "title": "Retur Garantat",
             "description": "<p>Multumit sau banii inapoi</p>",
@@ -138,7 +138,7 @@
         "16225125199f82d8fe-2": {
           "type": "iconbox",
           "settings": {
-            "image": "shopify://shop_images/1.png",
+            "image": "shopify://shop_images/customer-support-icon.png",
             "image_by_url": "",
             "title": "Asistenta Dedicata",
             "description": "<p>In fiecare zi a saptamanii</p>",
@@ -152,7 +152,7 @@
         "71deafbb-3baf-443a-a087-3f7b8af7b9fa": {
           "type": "iconbox",
           "settings": {
-            "image": "shopify://shop_images/4.png",
+            "image": "shopify://shop_images/secure-payment-icon.png",
             "image_by_url": "",
             "title": "Plati Securizate",
             "description": "<p>Comanda cu incredere</p>",
@@ -201,120 +201,105 @@
           "type": "collection_block",
           "settings": {
             "collection": "papetarie-si-rechizite-scolare",
-            "title": "Papetarie Si Rechizite",
-            "item_image": "shopify://shop_images/ChatGPT_Image_Aug_15_2025_02_25_36_PM.jpg"
+            "title": "Papetarie Si Rechizite"
           }
         },
         "16225316461d1cff80-2": {
           "type": "collection_block",
           "settings": {
             "collection": "articole-de-uz-casnic",
-            "title": "Articole De Uz Casnic",
-            "item_image": "shopify://shop_images/ChatGPT_Image_Aug_15_2025_02_25_50_PM.jpg"
+            "title": "Articole De Uz Casnic"
           }
         },
         "7a571158-7686-4e66-a693-4716fc905604": {
           "type": "collection_block",
           "settings": {
             "collection": "lampi-solare-led-light",
-            "title": "Lampi Solare LED",
-            "item_image": "shopify://shop_images/ChatGPT_Image_Aug_15_2025_03_20_20_PM.jpg"
+            "title": "Lampi Solare LED"
           }
         },
         "243acd99-34d8-4b1d-9e4e-4539fefc6bf1": {
           "type": "collection_block",
           "settings": {
             "collection": "articole-sportive",
-            "title": "Articole Sportive",
-            "item_image": "shopify://shop_images/ChatGPT_Image_Aug_15_2025_02_38_18_PM.jpg"
+            "title": "Articole Sportive"
           }
         },
         "16225316461d1cff80-1": {
           "type": "collection_block",
           "settings": {
             "collection": "toate-produsele",
-            "title": "Toate Produsele",
-            "item_image": "shopify://shop_images/ChatGPT_Image_Aug_15_2025_03_25_24_PM.jpg"
+            "title": "Toate Produsele"
           }
         },
         "collection_block_zFRt9t": {
           "type": "collection_block",
           "settings": {
             "collection": "articole-copii-si-jucarii",
-            "title": "Articole Copii Si Jucarii",
-            "item_image": "shopify://shop_images/ChatGPT_Image_Aug_15_2025_02_41_37_PM.jpg"
+            "title": "Articole Copii Si Jucarii"
           }
         },
         "collection_block_PcDkMP": {
           "type": "collection_block",
           "settings": {
             "collection": "incarcatoare-cabluri-android-iphone",
-            "title": "Incarcatoare Si Cabluri",
-            "item_image": "shopify://shop_images/ChatGPT_Image_Aug_15_2025_03_17_59_PM.jpg"
+            "title": "Incarcatoare Si Cabluri"
           }
         },
         "collection_block_jVLR7e": {
           "type": "collection_block",
           "settings": {
             "collection": "decoratiuni-si-ornamente",
-            "title": "Decoratiuni Si Ornamente",
-            "item_image": "shopify://shop_images/ChatGPT_Image_Aug_15_2025_02_52_43_PM.jpg"
+            "title": "Decoratiuni Si Ornamente"
           }
         },
         "collection_block_gcNk9G": {
           "type": "collection_block",
           "settings": {
             "collection": "decoratiuni-craciun-globuri-ghirlande-stickere",
-            "title": "Decoratiuni Craciun",
-            "item_image": "shopify://shop_images/ChatGPT_Image_Aug_15_2025_02_48_40_PM.jpg"
+            "title": "Decoratiuni Craciun"
           }
         },
         "collection_block_MdqbjA": {
           "type": "collection_block",
           "settings": {
             "collection": "electronice-electrice",
-            "title": "Electronice Si Electrice",
-            "item_image": "shopify://shop_images/ChatGPT_Image_Aug_15_2025_02_55_30_PM.jpg"
+            "title": "Electronice Si Electrice"
           }
         },
         "collection_block_HrrhPr": {
           "type": "collection_block",
           "settings": {
             "collection": "gradina-outdoor",
-            "title": "Gradina Si Outdoor",
-            "item_image": "shopify://shop_images/ChatGPT_Image_Aug_15_2025_02_58_27_PM.jpg"
+            "title": "Gradina Si Outdoor"
           }
         },
         "collection_block_4VnCmg": {
           "type": "collection_block",
           "settings": {
             "collection": "auto-velo",
-            "title": "Auto Si Velo",
-            "item_image": "shopify://shop_images/ChatGPT_Image_Aug_15_2025_03_01_14_PM.jpg"
+            "title": "Auto Si Velo"
           }
         },
         "collection_block_GWF7fi": {
           "type": "collection_block",
           "settings": {
             "collection": "articole-de-imbracaminte-si-accesorii",
-            "title": "Articole De Imbracaminte Si Accesorii",
-            "item_image": "shopify://shop_images/ChatGPT_Image_Aug_15_2025_03_03_24_PM.jpg"
+            "title": "Articole De Imbracaminte Si Accesorii"
           }
         },
         "collection_block_fHef7F": {
           "type": "collection_block",
           "settings": {
             "collection": "incaltaminte-sub-categorie-dedicata",
-            "title": "Incaltaminte",
-            "item_image": "shopify://shop_images/ChatGPT_Image_Aug_15_2025_03_05_59_PM.jpg"
+            "title": "Incaltaminte"
           }
         },
         "collection_block_nPLJrP": {
           "type": "collection_block",
           "settings": {
             "collection": "frumusete-ingrijire-personala",
-            "title": "Frumusete Si Ingrijire Personala",
-            "item_image": "shopify://shop_images/ChatGPT_Image_Aug_15_2025_03_08_53_PM.jpg"
+            "title": "Frumusete Si Ingrijire Personala"
           }
         }
       },
@@ -632,7 +617,6 @@
         "template--14842992525401__5f1dbc98-1633-47fd-a34d-5a16b1d02860-16681613493445a245-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_Aug_15_2025_03_37_48_PM.jpg",
             "link": "",
             "width": "50%",
             "alignment": "center",
