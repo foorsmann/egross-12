@@ -14,7 +14,7 @@
       "name": "Image with text overlay",
       "settings": {
         "container": "w-full",
-        "hero_size": "adapt",
+        "hero_size": "small",
         "show_overlay": true,
         "image": "{{ collection.metafields.custom.poza_colectie.value }}",
         "bg_position": "center",
