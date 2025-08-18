@@ -197,34 +197,6 @@
     "16225316461d1cff80": {
       "type": "collection-list",
       "blocks": {
-        "12985deb-0775-45ce-80f6-6be7f3150a91": {
-          "type": "collection_block",
-          "settings": {
-            "collection": "papetarie-si-rechizite-scolare",
-            "title": "Papetarie Si Rechizite"
-          }
-        },
-        "16225316461d1cff80-2": {
-          "type": "collection_block",
-          "settings": {
-            "collection": "articole-de-uz-casnic",
-            "title": "Articole De Uz Casnic"
-          }
-        },
-        "7a571158-7686-4e66-a693-4716fc905604": {
-          "type": "collection_block",
-          "settings": {
-            "collection": "lampi-solare-led-light",
-            "title": "Lampi Solare LED"
-          }
-        },
-        "243acd99-34d8-4b1d-9e4e-4539fefc6bf1": {
-          "type": "collection_block",
-          "settings": {
-            "collection": "articole-sportive",
-            "title": "Articole Sportive"
-          }
-        },
         "16225316461d1cff80-1": {
           "type": "collection_block",
           "settings": {
@@ -239,11 +211,32 @@
             "title": "Articole Copii Si Jucarii"
           }
         },
-        "collection_block_PcDkMP": {
+        "collection_block_gcNk9G": {
           "type": "collection_block",
           "settings": {
-            "collection": "incarcatoare-cabluri-android-iphone",
-            "title": "Incarcatoare Si Cabluri"
+            "collection": "decoratiuni-craciun-globuri-ghirlande-stickere",
+            "title": "Decoratiuni Craciun"
+          }
+        },
+        "16225316461d1cff80-2": {
+          "type": "collection_block",
+          "settings": {
+            "collection": "articole-de-uz-casnic",
+            "title": "Articole De Uz Casnic"
+          }
+        },
+        "collection_block_GWF7fi": {
+          "type": "collection_block",
+          "settings": {
+            "collection": "articole-de-imbracaminte-si-accesorii",
+            "title": "Articole De Imbracaminte Si Accesorii"
+          }
+        },
+        "7a571158-7686-4e66-a693-4716fc905604": {
+          "type": "collection_block",
+          "settings": {
+            "collection": "lampi-solare-led-light",
+            "title": "Lampi Solare LED"
           }
         },
         "collection_block_jVLR7e": {
@@ -253,11 +246,25 @@
             "title": "Decoratiuni Si Ornamente"
           }
         },
-        "collection_block_gcNk9G": {
+        "12985deb-0775-45ce-80f6-6be7f3150a91": {
           "type": "collection_block",
           "settings": {
-            "collection": "decoratiuni-craciun-globuri-ghirlande-stickere",
-            "title": "Decoratiuni Craciun"
+            "collection": "papetarie-si-rechizite-scolare",
+            "title": "Papetarie Si Rechizite"
+          }
+        },
+        "243acd99-34d8-4b1d-9e4e-4539fefc6bf1": {
+          "type": "collection_block",
+          "settings": {
+            "collection": "articole-sportive",
+            "title": "Articole Sportive"
+          }
+        },
+        "collection_block_PcDkMP": {
+          "type": "collection_block",
+          "settings": {
+            "collection": "incarcatoare-cabluri-android-iphone",
+            "title": "Incarcatoare Si Cabluri"
           }
         },
         "collection_block_MdqbjA": {
@@ -281,13 +288,6 @@
             "title": "Auto Si Velo"
           }
         },
-        "collection_block_GWF7fi": {
-          "type": "collection_block",
-          "settings": {
-            "collection": "articole-de-imbracaminte-si-accesorii",
-            "title": "Articole De Imbracaminte Si Accesorii"
-          }
-        },
         "collection_block_fHef7F": {
           "type": "collection_block",
           "settings": {
@@ -304,19 +304,19 @@
         }
       },
       "block_order": [
-        "12985deb-0775-45ce-80f6-6be7f3150a91",
-        "16225316461d1cff80-2",
-        "7a571158-7686-4e66-a693-4716fc905604",
-        "243acd99-34d8-4b1d-9e4e-4539fefc6bf1",
         "16225316461d1cff80-1",
         "collection_block_zFRt9t",
-        "collection_block_PcDkMP",
-        "collection_block_jVLR7e",
         "collection_block_gcNk9G",
+        "16225316461d1cff80-2",
+        "collection_block_GWF7fi",
+        "7a571158-7686-4e66-a693-4716fc905604",
+        "collection_block_jVLR7e",
+        "12985deb-0775-45ce-80f6-6be7f3150a91",
+        "243acd99-34d8-4b1d-9e4e-4539fefc6bf1",
+        "collection_block_PcDkMP",
         "collection_block_MdqbjA",
         "collection_block_HrrhPr",
         "collection_block_4VnCmg",
-        "collection_block_GWF7fi",
         "collection_block_fHef7F",
         "collection_block_nPLJrP"
       ],
