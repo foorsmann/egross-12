@@ -15,7 +15,8 @@
         "0e2f4cdc-52ea-4a81-8981-2c1da0f34854": {
           "type": "banner",
           "settings": {
-            "collection": "{{ collection }}"
+            "collection": "",
+            "image": "{{ block.settings.collection.metafields.custom.poza_colectie.value }}"
           }
         }
       },
