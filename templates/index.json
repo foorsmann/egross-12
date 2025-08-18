@@ -632,6 +632,7 @@
         "template--14842992525401__5f1dbc98-1633-47fd-a34d-5a16b1d02860-16681613493445a245-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/about-us-egross-online-store.jpg",
             "link": "",
             "width": "50%",
             "alignment": "center",
@@ -665,7 +666,7 @@
           "type": "item",
           "settings": {
             "header": "In cat timp se livreaza comenzile?",
-            "content": "<p>De cele mai multe ori comenzile sunt expediate in maximum 48 de ore urmand sa ajunga la dvs in cel mult 1-2 zile lucratoare</p>",
+            "content": "<p>De cele mai multe ori comenzile sunt expediate in maximum 48 de ore urmand sa ajunga la dvs in cel mult 3-4 zile lucratoare</p>",
             "content_page": "",
             "open": false
           }
