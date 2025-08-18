@@ -59,7 +59,7 @@
             "deliver_days": "7",
             "date_format": "%b %d",
             "show_shipping_text": true,
-            "shipping_text": "<p><strong>Livrare Gratuita: </strong>Orice comanda peste 200 lei</p>"
+            "shipping_text": "<p><strong>Livrare Gratuita: </strong>Orice comanda peste 2000 lei</p>"
           }
         },
         "853d9a4e-7f41-4c6a-bc84-42d9218f2abe": {
@@ -75,7 +75,7 @@
           "type": "addons",
           "settings": {
             "show_atcp": false,
-            "show_ask_a_question": true,
+            "show_ask_a_question": false,
             "show_social": true
           }
         },
