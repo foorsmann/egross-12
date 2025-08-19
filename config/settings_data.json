@@ -161,7 +161,7 @@
             "disabled": true,
             "settings": {
               "heading": "Shop",
-              "container": "container",
+              "container": "w-full",
               "banner_style": "outside",
               "banner_link": "",
               "banner_title": "The New - Season Shoes Edit",
