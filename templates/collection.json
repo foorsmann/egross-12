@@ -15,11 +15,11 @@
       "settings": {
         "container": "container",
         "hero_size": "small",
-        "show_overlay": true,
+        "show_overlay": false,
         "image": "{{ collection.metafields.custom.poza_colectie.value }}",
         "bg_position": "center",
         "image_link": "",
-        "parallax": true,
+        "parallax": false,
         "content_in_container": false,
         "content_position": "center middle",
         "text_alignment": "center",
